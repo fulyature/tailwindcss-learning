@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .card {
+    @apply flex flex-col justify-between items-center bg-pink-300 rounded-xl w-1/6 h-[250px];
+  }
+}
