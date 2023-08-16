@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tailwindcss-learning/static/css/main.7b5b5123.css",
+    "main.js": "/tailwindcss-learning/static/js/main.14b9a5c9.js",
+    "index.html": "/tailwindcss-learning/index.html",
+    "main.7b5b5123.css.map": "/tailwindcss-learning/static/css/main.7b5b5123.css.map",
+    "main.14b9a5c9.js.map": "/tailwindcss-learning/static/js/main.14b9a5c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b5b5123.css",
+    "static/js/main.14b9a5c9.js"
+  ]
+}
